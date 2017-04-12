@@ -1,3 +1,7 @@
+![Circle CI](https://circleci.com/gh/mrphu3074/graphql-server-decorators.svg?style=shield&circle-token=5314936c26314cd5b677aa6eb9c0f72d5376a509)
+
+----
+
 ## graphql-server-decorators
 Decorators that help creating graphql server easier
 These decorators don't create types or input. 
