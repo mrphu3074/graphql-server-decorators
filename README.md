@@ -1,7 +1,6 @@
 ![Circle CI](https://circleci.com/gh/mrphu3074/graphql-server-decorators.svg?style=shield&circle-token=5314936c26314cd5b677aa6eb9c0f72d5376a509)
 
-
-! [Travis CI] (https://travis-ci.org/mrphu3074/graphql-server-decorators.svg?branch=master)
+[![Build Status](https://travis-ci.org/mrphu3074/graphql-server-decorators.svg?branch=master)](https://travis-ci.org/mrphu3074/graphql-server-decorators)
 
 ----
 
