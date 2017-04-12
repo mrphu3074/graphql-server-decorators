@@ -1,12 +1,13 @@
 {
   "name": "graphql-server-decorators",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create graphql server easier",
-  "main": "./lib/index.js",
+  "main": "./dist/index.js",
   "typings": "./src/index.d.ts",
   "scripts": {
+    "clean": "rm -rf ./dist",
     "compile": "./node_modules/.bin/tsc -p .",
-    "prepublish": "npm run compile",
+    "prepublish": "npm run clean && npm run compile",
     "pretest": "npm run compile",
     "test": "./node_modules/.bin/mocha ./dist/*.test.js"
   },
