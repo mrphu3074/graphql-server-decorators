@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"allowJs": false,
+		"sourceMap": true,
+		"sourceRoot": "src",
+		"outDir": "dist",
+		"target": "es5",
+		"module": "commonjs",
+		"experimentalDecorators": true,
+		"lib": [
+			"es5",
+			"es6",
+			"es7"
+		],
+		"jsx": "react"
+	}
+}
